@@ -60,7 +60,7 @@ Follow these steps to execute the audit scripts on your Linux/Ubuntu system:
 
 1. Clone the Repository
 
-git clone https://github.com/vedlogged/oss-audit-24BCY1034.git
+git clone https://github.com/vedlogged/oss-audit-24bcy10364.git
 cd oss-audit-24bcy10364
 
 
